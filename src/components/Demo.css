@@ -1,0 +1,13 @@
+
+.header {
+    background-color:blue; 
+    color: white;
+    padding:20px;
+    font-size: x-large;
+    font-weight: bold;
+  }
+
+  .align {
+    align-content:flex-end;
+    float: right;
+  }
